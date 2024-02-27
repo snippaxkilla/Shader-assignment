@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 478312649}
   - component: {fileID: 478312648}
   m_Layer: 0
-  m_Name: Sphere
+  m_Name: Standard shader Rocks
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
