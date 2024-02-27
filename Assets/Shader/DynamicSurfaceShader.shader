@@ -51,7 +51,7 @@ Shader "Unlit/NormalMappedShader"
 
             fixed4 frag (v2f i) : SV_Target
             {
-                // sample the texture
+                // Sample the texture
                 fixed4 col = tex2D(_MainTex, i.uv);
                 
                 // Apply normal map
